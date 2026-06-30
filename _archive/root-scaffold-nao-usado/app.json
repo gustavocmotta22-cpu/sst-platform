@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "SegTrab DT 22:8",
+    "slug": "sst-platform",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "segtrab",
+    "web": {
+      "bundler": "metro"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

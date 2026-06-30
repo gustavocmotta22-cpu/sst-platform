@@ -1,0 +1,2 @@
+// camada do projeto
+export {};

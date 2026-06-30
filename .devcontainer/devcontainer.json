@@ -1,0 +1,9 @@
+{
+  "portsAttributes": {
+    "8081": {
+      "label": "SegTrab App",
+      "onAutoForward": "openBrowserOnce",
+      "visibility": "public"
+    }
+  }
+}
